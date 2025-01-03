@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @k-a-rahul
-- 👀 I’m interested in Frontend Dev.
+- 👀 I’m interested in Software Developmet.
 - 🌱 I’m currently learning frontend Development.
 - 📫 Reach me @ 7347506388 
 
