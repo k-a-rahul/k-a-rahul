@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @k-a-rahul
-- 👀 I’m interested in Software Developmet.
-- 🌱 I’m currently learning frontend Development.
+- 👋 Hi, I’m Passionate software developer specifically interested in Frontend Solutions names as Rahul kumar aka Ricky.
+- 👀 I try to delevop cutting edge & client specific solutions by using the skills like JS , React.js, Next.js, Node.js etc.
 - 📫 Reach me @ 7347506388 
 
 
